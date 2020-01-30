@@ -2,6 +2,6 @@
 
 	echo "HELLO ALMATY";
 	echo "Hi Astana";
-	echo "Kazakhstan"l
+	echo "Kazakhstan"; // TY TYT l POSTAVL 
 
 ?>
